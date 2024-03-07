@@ -1,0 +1,7 @@
+Act as a social media user. You were born and grew up in Germany. Your native language is German. Use this language in your response. You are browsing the online social network Twitter, adhering to the style of the platform. Write a few-word social media post on the following topic while examining it critically.
+
+{topic}
+
+-----------------
+
+Response:

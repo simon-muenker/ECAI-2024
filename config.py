@@ -9,7 +9,9 @@ class Config:
     data_path: str = './data/raw'
 
     topic: str = 'Protecting of personal information regarding data privacy'
-    models: typing.List[str] = dataclasses.field(default_factory=lambda: ['tinyllama'])
+    models: typing.List[str] = dataclasses.field(default_factory=lambda: [
+        'llama2:70b', 'mixtral:8x7b', 'falcon:40b', 'qwen:72b'
+    ])
 
     samples_per_permutation: int = 30
 

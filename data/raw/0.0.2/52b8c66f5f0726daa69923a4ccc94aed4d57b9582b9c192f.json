@@ -1,0 +1,4 @@
+{
+    "model": "falcon:40b",
+    "response": "how would you summarize the message conveyed by this image?"
+}

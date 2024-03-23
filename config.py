@@ -14,10 +14,13 @@ class Config:
 
     topic: str = 'Protecting of personal information regarding data privacy'
     models: typing.List[str] = dataclasses.field(default_factory=lambda: [
-        'llama2:70b', 'mixtral:8x7b', 'falcon:40b', 'qwen:72b'
+        # 'llama2:70b',
+        'mixtral:8x7b',
+        # 'falcon:40b',
+        # 'qwen:72b'
     ])
 
-    samples_per_permutation: int = 30
+    samples_per_permutation: int = 500
     n_grams_analysis: int = 1
 
     def __post_init__(self):

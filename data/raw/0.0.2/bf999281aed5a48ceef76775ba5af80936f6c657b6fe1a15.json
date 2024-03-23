@@ -1,0 +1,4 @@
+{
+    "model": "falcon:40b",
+    "response": "i am here to assist you in writing your response for the given prompt.\n\n<ol>\n<li><p>your online privacy is important.</p></li>\n<li><p>you can protect your personal information on social media by:</p></li>\n<ul>\n    <li><p>not sharing too much personal information with strangers</p></li>\n    <li><p>using a strong password and changing it periodically</p></li>\n    <li><p>avoiding public wi-fi networks to prevent data theft</p></li>\n    <li><p>being cautious of suspicious links or emails</p></li>\n    <li><p>deleting unnecessary apps and updating your software regularly</p></li>\n</ul>\n<p>remember that social media platforms are not always trustworthy. therefore, it is essential to protect yourself from potential threats.</p></li>\n</ol><|endoftext|>"
+}

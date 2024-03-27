@@ -2,3 +2,4 @@ ollama>=0.1.7
 nltk>=3.8.1
 tqdm>=4.66.1
 langdetect>=1.0.9
+cltrier_prosem>=0.4.3

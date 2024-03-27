@@ -11,6 +11,7 @@ if __name__ == '__main__':
     raw: pd.DataFrame = (
         pd.read_parquet(CFG.dataset_path)
         .pipe(lambda _df: _df.assign(span=pd.Series([[0, 0]] * len(_df))))
+        .sample(frac=1.)
     )
 
     pathlib.Path(CFG.data_out_dir).mkdir(parents=True, exist_ok=True)

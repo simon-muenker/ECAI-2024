@@ -8,7 +8,10 @@ import config
 if __name__ == '__main__':
     CFG = config.Config()
 
-    raw: pd.DataFrame = pd.read_parquet(CFG.dataset_path)
+    raw: pd.DataFrame = (
+        pd.read_parquet(CFG.dataset_path)
+        .pipe(lambda _df: _df.assign(span=pd.Series([[0, 0]] * len(_df))))
+    )
 
     pathlib.Path(CFG.data_out_dir).mkdir(parents=True, exist_ok=True)
     pathlib.Path(CFG.result_dir).mkdir(parents=True, exist_ok=True)
@@ -33,7 +36,7 @@ if __name__ == '__main__':
         },
         'pooler': {
             'form': 'cls',
-            'span_columns': [''],
+            'span_columns': ['span'],
         },
         'trainer': {
             **CFG.trainer_config.__dict__,

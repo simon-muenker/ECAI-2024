@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland legen wir wert auf datenschutz. unsere persönlichen informationen sind kostbar und sollten geschützt werden. seid kritisch gegenüber daten sammelnden unternehmen und haltet eure privatsphäre so gut es geht bewahrt. #datenschutz #persönlicheinformationen\"\n\ntranslation: \"in germany, we value data privacy. our personal information is valuable and should be protected. be critical of companies that collect data and do your best to maintain your privacy. #dataprivacy #personalinformation\""
+}

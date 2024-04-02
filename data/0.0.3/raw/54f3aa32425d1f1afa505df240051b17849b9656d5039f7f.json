@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland, wir schützen sorgfältig unsere persönlichen daten. kein unternehmen sollte ohne zustimmung auf ihre informationen zugreifen dürfen. #datenschutz #persönlicheinformationen\"\n\ntranslation: \"in germany, we carefully protect our personal data. no company should be able to access your information without consent. #dataprotection #personalinformation\""
+}

@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland, wir schützen unsere persönlichen daten mit leidenschaft. kein unternehmen sollte sie unbefugt sammeln oder weitergeben. #datenschutz\"\n\ntranslation: \"in germany, we passionately protect our personal data. no company should collect or share it without authorization. #dataprivacy\""
+}

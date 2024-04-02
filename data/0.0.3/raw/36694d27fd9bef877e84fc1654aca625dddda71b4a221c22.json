@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"schützt eure persönlichen daten! seid kritisch gegenüber unternehmen, die nach privaten informationen fragen. #datenschutz\"\n\ntranslation: \"protect your personal data! be critical of companies that ask for private information. #dataprivacy\""
+}

@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland, datenschutz ist ein grundrecht. sei vorsichtig mit deinen persönlichen daten online. vertraue nur sicheren quellen und nutze die privatsphäreneinstellungen der sozialen medien! #datenschutz\"\n\ntranslation: \"in germany, data protection is a fundamental right. be careful with your personal data online. trust only secure sources and use the privacy settings of social media!\""
+}

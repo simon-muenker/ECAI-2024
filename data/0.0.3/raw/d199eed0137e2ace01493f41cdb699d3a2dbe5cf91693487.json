@@ -1,0 +1,4 @@
+{
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "you have just received an email from the twitter team asking for your personal information such as name, address, and date of birth to ensure security and protect against unauthorized access to your account. however, you are not comfortable providing this information as it may compromise your data privacy. write a few-word social media post on how you will respond to the email while examining it critically.<|endoftext|>"
+}

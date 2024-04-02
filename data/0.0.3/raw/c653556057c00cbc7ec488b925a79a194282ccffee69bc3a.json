@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland legen wir wert auf datenschutz. unsere persönlichen informationen sind schützenswert und dürfen nicht ohne unsere zustimmung weitergegeben werden. #datenschutz #persönlicheinformationen\"\n\ntranslation: in germany, we value data privacy. our personal information is worthy of protection and should not be shared without our consent. #dataprivacy #personalinformation"
+}

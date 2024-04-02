@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland legen wir großen wert auf datenschutz und persönlichkeitsrechte. schützt eure persönlichen daten im internet, indem ihr vorsichtig mit informationen umgeht und eure privatsphäre-einstellungen überprüft. #datenschutz\"\n\ntranslation: \"in germany, we place great importance on data protection and personal rights. protect your personal data online by being careful with the information you share and checking your privacy settings. #dataprivacy\""
+}

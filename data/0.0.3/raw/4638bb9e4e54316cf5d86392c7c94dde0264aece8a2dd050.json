@@ -1,0 +1,4 @@
+{
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "what is your stance towards the protection of personal information regarding data privacy?"
+}

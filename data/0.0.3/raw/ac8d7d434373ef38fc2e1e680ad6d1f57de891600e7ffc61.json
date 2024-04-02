@@ -1,0 +1,4 @@
+{
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "this is not a valid prompt as there seems to be a mistake in the instructions. please provide a new prompt that follows the given guidelines.<|endoftext|>"
+}

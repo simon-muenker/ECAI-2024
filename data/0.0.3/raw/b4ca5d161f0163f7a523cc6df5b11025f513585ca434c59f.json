@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland, wir schützen unsere persönlichen daten ernsthaft. kein unternehmen sollte ungefragt auf sie zugreifen dürfen. #datenschutz #persönlichkeitsrechte\"\n\ntranslation: \"in germany, we take the protection of our personal data seriously. no company should be allowed to access them without permission. #dataprotection #personalrights\""
+}

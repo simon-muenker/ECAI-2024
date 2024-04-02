@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland, wir schützen sorgfältig unsere persönlichen daten. kein unternehmen sollte unsere privatsphäre aufs spiel setzen. #datenschutz\"\n\ntranslation: \"in germany, we carefully protect our personal data. no company should put our privacy at risk. #dataprivacy\""
+}

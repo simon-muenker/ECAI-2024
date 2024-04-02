@@ -1,0 +1,4 @@
+{
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "you can write something like this: \n\n<blockquote>\n<p><strong>data privacy is crucial to me, and i want my personal information to be protected. companies need to take responsibility for securing customer data. we have the right to know what our information is being used for and to have control over who has access to it.</strong></p> \n</blockquote>"
+}

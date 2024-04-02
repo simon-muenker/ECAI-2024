@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland, wir nehmen datenschutz sehr ernst. schütze deine persönlichen daten wie du deinen eigenen augapfel schützen würdest. sei kritisch und informiert über die nutzung deiner daten online. #datenschutz\"\n\ntranslation: \"in germany, we take data privacy very seriously. protect your personal data like you would protect your own eyeball. be critical and informed about the use of your data online. #dataprivacy\""
+}

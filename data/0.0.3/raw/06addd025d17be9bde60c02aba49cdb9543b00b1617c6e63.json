@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland legen wir wert auf #datenschutz. unsere persönlichen daten sind keine ware – achten sie darauf, wem sie ihre informationen anvertrauen. #personalinformation #dataprivacy\"\n\ntranslation: \"in germany, we value data privacy. our personal information is not for sale – be mindful of who you trust with your data. #personalinformation #dataprivacy\""
+}

@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland, datenschutz ist kein nice-to-have, sondern pflicht. schützt eure persönlichen daten online und seid kritisch gegenüber unternehmen, die eure privatsphäre nicht respektieren. #datenschutz #persönlichedaten\"\n\ntranslation: \"in germany, data protection is not a nice-to-have, but an obligation. protect your personal data online and be critical of companies that do not respect your privacy. #dataprotection #personaldata\""
+}

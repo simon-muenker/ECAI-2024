@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland legen wir wert auf #datenschutz. deine persönlichen daten sind keine ware – schütze sie! #persönlicheinformationensicherheit\"\n\ntranslation: in germany, we value #dataprotection. your personal data is not a commodity - protect it! #personalinformationsecurity"
+}

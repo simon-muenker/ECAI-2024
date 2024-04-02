@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"schützt eure persönlichen daten! seid kritisch gegenüber unternehmen, die nach privaten informationen fragen. euer recht auf datenschutz ist unverhandelbar. #datenschutz\"\n\ntranslation: \"protect your personal data! be critical of companies that ask for private information. your right to data privacy is non-negotiable. #dataprivacy\""
+}

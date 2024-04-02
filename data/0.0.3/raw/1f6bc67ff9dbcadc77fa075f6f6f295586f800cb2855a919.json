@@ -1,0 +1,4 @@
+{
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "you can write something like this:\n\n<blockquote>\n  die datenschutzgesetze in deutschland sind sehr streng und schützen die persönlichen daten der bürger vor missbrauch. ich bin froh, dass meine regierung so viel wert auf den schutz meiner privatsphäre legt. #datenschutz</blockquote>\n\nenglish translation:\n<blockquote>\n  data protection laws in germany are very strict and protect citizens' personal data from abuse. i am glad that my government places so much value on protecting my privacy. #dataprotection</blockquote><|endoftext|>"
+}

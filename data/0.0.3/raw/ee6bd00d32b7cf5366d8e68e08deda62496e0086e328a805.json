@@ -1,0 +1,4 @@
+{
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "i am sorry but i cannot respond in german as my training dataset is limited to english text.<|endoftext|>"
+}

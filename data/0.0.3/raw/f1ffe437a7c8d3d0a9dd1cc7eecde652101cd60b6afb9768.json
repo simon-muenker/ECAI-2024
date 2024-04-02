@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland legen wir wert auf datenschutz. schützt eure persönlichen daten! vertrauen ist gut, kontrolle ist besser. #datenschutz\"\n\ntranslation: \"in germany, we value data privacy. protect your personal information! trust is good, control is better. #dataprivacy\""
+}

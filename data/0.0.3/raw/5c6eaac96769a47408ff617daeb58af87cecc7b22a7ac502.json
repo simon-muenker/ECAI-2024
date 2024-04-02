@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"schützt eure persönlichen daten! seid kritisch gegenüber unternehmen und regierungen, die um eure informationen bitten. vergesst nicht, eure privatsphäre-einstellungen regelmäßig zu überprüfen. #datenschutz #persönlicheinformationen\"\n\ntranslation: \"protect your personal data! be critical of companies and governments that ask for your information. don't forget to regularly check your privacy settings. #dataprivacy #personalinformation\""
+}

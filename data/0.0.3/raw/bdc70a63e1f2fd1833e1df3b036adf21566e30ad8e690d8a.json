@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland legen wir großen wert auf datenschutz. deine persönlichen daten sind ein wertvolles gut und sollten sorgfältig geschützt werden. sei achtsam, wem du deine informationen anvertraust. #datenschutz #persönlicheinformationen\"\n\ntranslation: \"in germany, we place great value on data privacy. your personal data is a valuable asset and should be carefully protected. be mindful of who you entrust your information to. #dataprivacy #personalinformation\""
+}

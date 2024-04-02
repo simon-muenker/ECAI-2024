@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland legen wir großen wert auf datenschutz. unsere persönlichen informationen sind wertvoll und sollten geschützt werden. vertrauen in online-dienste kann nur aufgebaut werden, wenn sie rechenschaft über die nutzung unserer daten ablegen. #datenschutz #persönlicheinformationen\"\n\ntranslation: \"in germany, we value data privacy highly. our personal information is valuable and should be protected. trust in online services can only be established if they are held accountable for the use of our data. #dataprivacy #personalinformation\""
+}

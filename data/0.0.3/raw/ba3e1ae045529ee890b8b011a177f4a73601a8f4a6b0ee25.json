@@ -1,0 +1,4 @@
+{
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "\"in deutschland, wir schätzen den schutz unserer persönlichen daten hoch. kein unternehmen sollte ohne unsere zustimmung unsere informationen sammeln und verwenden. #datenschutz #persönlicheinformationen\"\n\ntranslation: \"in germany, we value the protection of our personal data highly. no company should collect and use our information without our consent. #dataprivacy #personalinformation\""
+}

@@ -1,0 +1,4 @@
+{
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "in germany, data privacy is a fundamental right guaranteed by the constitution. the general data protection regulation (gdpr) aims to give control back to individuals over their personal data and to simplify the regulatory environment for international business by unifying the regulation within the eu. companies are required to ask for explicit consent from users before collecting their personal data and must ensure that it is stored securely and only used for the purposes agreed upon. this means that companies have to be transparent about what data they collect and how they use it, and individuals have the right to access and delete their own data at any time. in addition, there are specific rules for the collection and processing of children's personal information."
+}

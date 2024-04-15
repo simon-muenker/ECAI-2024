@@ -1,0 +1,6 @@
+{
+    "category": "relevance",
+    "number": "7",
+    "model": "llama2:70b-chat-q6_K",
+    "response": "relevance label: 4 - somewhat relevant\n\nthe sentence \"whether or not someone acted unfairly\" is relevant in determining what is right and wrong because it raises a concern about the fairness of an action, which can be an important ethical consideration. however, on its own, it does not provide a clear indication of whether the action was right or wrong, as fairness can depend on various factors and context. therefore, it is somewhat relevant but not extremely relevant in determining what is right and wrong."
+}

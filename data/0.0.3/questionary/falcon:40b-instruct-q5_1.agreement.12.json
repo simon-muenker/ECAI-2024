@@ -1,0 +1,6 @@
+{
+    "category": "agreement",
+    "number": "12",
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "the user thinks that it's morally wrong that rich children inherit a lot of money while poor children inherit nothing.<|endoftext|>"
+}

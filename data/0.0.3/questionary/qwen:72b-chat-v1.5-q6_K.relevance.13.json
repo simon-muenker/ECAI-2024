@@ -1,0 +1,6 @@
+{
+    "category": "relevance",
+    "number": "13",
+    "model": "qwen:72b-chat-v1.5-q6_K",
+    "response": "[4] very relevant\n\nloyalty is often considered an important ethical value. a lack of loyalty can be seen as wrong in many contexts, such as personal relationships, friendships, and professional settings."
+}

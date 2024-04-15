@@ -1,0 +1,6 @@
+{
+    "category": "relevance",
+    "number": "1",
+    "model": "llama2:70b-chat-q6_K",
+    "response": "label: 3 - slightly relevant\n\nthis sentence refers to the unequal treatment of certain individuals or groups, which can be a factor in determining what is right and wrong. however, it does not directly address the moral principles or values that govern such treatment, so its relevance is limited."
+}

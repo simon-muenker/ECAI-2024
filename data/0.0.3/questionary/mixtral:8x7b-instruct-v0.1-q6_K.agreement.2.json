@@ -1,0 +1,6 @@
+{
+    "category": "agreement",
+    "number": "2",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "[4] moderately agree\n\nthis label is based on the assumption that the speaker has a positive relationship with their country's history and feels a sense of pride towards it. however, the level of agreement may vary depending on the individual's personal experiences and connection to their country's past."
+}

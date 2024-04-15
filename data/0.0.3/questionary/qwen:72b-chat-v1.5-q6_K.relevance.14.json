@@ -1,0 +1,6 @@
+{
+    "category": "relevance",
+    "number": "14",
+    "model": "qwen:72b-chat-v1.5-q6_K",
+    "response": "label: [4] very relevant.\n\nthe impact of an action on causing chaos or disorder is a significant factor in determining what is right and wrong. actions that lead to instability and harm to others are generally considered unethical."
+}

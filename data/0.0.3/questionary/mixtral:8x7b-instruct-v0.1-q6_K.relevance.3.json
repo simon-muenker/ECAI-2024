@@ -1,0 +1,6 @@
+{
+    "category": "relevance",
+    "number": "3",
+    "model": "mixtral:8x7b-instruct-v0.1-q6_K",
+    "response": "i would label this sentence as [3] somewhat relevant in determining what is right and wrong. this is because respect for authority can be an important value in some societies, and a lack of respect could potentially be seen as wrong. however, there are many situations where respect for authority may not be the most important factor in determining right from wrong, so this sentence is not extremely relevant on its own."
+}

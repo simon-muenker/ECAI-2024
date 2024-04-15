@@ -1,0 +1,6 @@
+{
+    "category": "relevance",
+    "number": "1",
+    "model": "qwen:72b-chat-v1.5-q6_K",
+    "response": "this sentence is relevant in determining what is right and wrong because it touches upon the issue of fairness and equality, which are commonly accepted moral principles. \n\nlabel: [4] very relevant."
+}

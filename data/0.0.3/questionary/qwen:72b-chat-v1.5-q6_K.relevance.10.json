@@ -1,0 +1,6 @@
+{
+    "category": "relevance",
+    "number": "10",
+    "model": "qwen:72b-chat-v1.5-q6_K",
+    "response": "4 - very relevant. \n\nthe morality of an action can be greatly influenced by whether it is considered disgusting or not. disgust can serve as a moral intuition in many societies, signaling behaviors that are seen as harmful or impure."
+}

@@ -1,0 +1,6 @@
+{
+    "category": "agreement",
+    "number": "0",
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "you have selected \"strongly disagree\". is this correct?<|endoftext|>"
+}

@@ -29,13 +29,14 @@ class Config:
 
     def __post_init__(self):
         self.template: str = open(self.template_path).read().strip()
+        self.questionary: typing.Dict = json.load(open(self.questionary_path))
 
         self.data_dir = f'{self.data_dir}/{self.version}'
         self.data_raw_dir = f'{self.data_dir}/raw'
+        self.data_questionary_dir = f'{self.data_dir}/questionary'
         self.report_dir = f'{self.report_dir}/{self.version}'
 
         pathlib.Path(self.data_dir).mkdir(parents=True, exist_ok=True)
         pathlib.Path(self.data_raw_dir).mkdir(parents=True, exist_ok=True)
+        pathlib.Path(self.data_questionary_dir).mkdir(parents=True, exist_ok=True)
         pathlib.Path(self.report_dir).mkdir(parents=True, exist_ok=True)
-
-        self.questionary: typing.Dict = json.loads(open(self.questionary_path).read())

@@ -1,0 +1,6 @@
+{
+    "category": "agreement",
+    "number": "10",
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "how do you define 'natural'?"
+}

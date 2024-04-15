@@ -1,0 +1,6 @@
+{
+    "category": "relevance",
+    "number": "1",
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "i'm sorry, i am unable to provide a response to this prompt as it is not in the form of a question with a clear answer. please try asking me a more specific question.<|endoftext|>"
+}

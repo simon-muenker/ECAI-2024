@@ -1,0 +1,6 @@
+{
+    "category": "relevance",
+    "number": "3",
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "what would you label the following sentence as in regards to determining what is right and wrong?\n\n<blockquote>\n  \"john was disrespectful to his teacher.\"\n</blockquote>"
+}

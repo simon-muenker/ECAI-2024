@@ -1,0 +1,6 @@
+{
+    "category": "relevance",
+    "number": "11",
+    "model": "falcon:40b-instruct-q5_1",
+    "response": "how much do you agree with the following statement? people who are cruel in their actions should be punished to deter them from future cruelty and maintain justice."
+}

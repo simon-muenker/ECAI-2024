@@ -1,4 +1,5 @@
 import dataclasses
+import json
 import pathlib
 import typing
 
@@ -8,6 +9,8 @@ class Config:
     version: str = '0.0.3'
 
     template_path: str = './template.txt'
+    questionary_path: str = './questionary.json'
+
     dataset_name: str = 'dataset'
     data_dir: str = './data'
     report_dir: str = './report'
@@ -34,3 +37,5 @@ class Config:
         pathlib.Path(self.data_dir).mkdir(parents=True, exist_ok=True)
         pathlib.Path(self.data_raw_dir).mkdir(parents=True, exist_ok=True)
         pathlib.Path(self.report_dir).mkdir(parents=True, exist_ok=True)
+
+        self.questionary: typing.Dict = json.loads(open(self.questionary_path).read())

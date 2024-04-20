@@ -1,0 +1,4 @@
+{
+    "model": "llama3:70b-instruct-q6_K",
+    "response": "import\n  *   @param      $request_data (array) data passed from controller. should contain at least 'id' and 'slug'."
+}

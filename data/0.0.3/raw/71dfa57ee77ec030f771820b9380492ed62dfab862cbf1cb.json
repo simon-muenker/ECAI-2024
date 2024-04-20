@@ -1,0 +1,4 @@
+{
+    "model": "llama3:70b-instruct-q6_K",
+    "response": "import\n    def __init__(self, a, b, c):\r\n        self.a = a\r\n        self.b = b\r\n        self.c = c\r\n\r\n    def __str__(self):\r\n        return f\"a={self.a}, b={self.b}, c={self.c}\"\r\n\r\n# create an instance of the class\r\nobj1 = myclass(10, 20, 30)\r\n\r\nprint(obj1)  # output: a=10, b=20, c=30"
+}

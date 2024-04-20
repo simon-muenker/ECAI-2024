@@ -1,0 +1,4 @@
+{
+    "model": "llama3:70b-instruct-q6_K",
+    "response": "import\n    *   the   number  is   not   prime  if  it  has   divisors  other  than   1  and   itself. for  example,  the   number  6  has  three   divisors  (1,2,3), so  it  is   not   prime."
+}

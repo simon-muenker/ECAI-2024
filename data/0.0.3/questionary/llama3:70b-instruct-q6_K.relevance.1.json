@@ -1,0 +1,6 @@
+{
+    "category": "relevance",
+    "number": "1",
+    "model": "llama3:70b-instruct-q6_K",
+    "response": "i would label this sentence as [4] very relevant in determining what is right and wrong. the concept of unequal treatment or discrimination is a fundamental principle in ethics and morality, and it can have significant implications for how we evaluate what is right and wrong in various situations. treating people differently based on arbitrary characteristics such as race, gender, religion, etc. is generally considered to be unjust and unethical."
+}

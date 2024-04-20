@@ -1,0 +1,6 @@
+{
+    "category": "relevance",
+    "number": "0",
+    "model": "llama3:70b-instruct-q6_K",
+    "response": "i would label this sentence a [4] very relevant in determining what is right and wrong.\n\nthe emotional well-being of individuals is an important consideration when evaluating the morality of an action. if someone has suffered emotionally as a result of an action, it suggests that the action may have been harmful or unjust, which can be an indicator of wrongdoing. conversely, if an action promotes emotional well-being and happiness, it may be considered morally right."
+}

@@ -1,0 +1,6 @@
+{
+    "category": "agreement",
+    "number": "8",
+    "model": "llama3:70b-instruct-q6_K",
+    "response": "[4] moderately agree"
+}

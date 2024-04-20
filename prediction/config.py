@@ -1,5 +1,7 @@
 import dataclasses
 
+VERSION = '0.0.3'
+
 
 @dataclasses.dataclass
 class TrainerConfig:
@@ -16,7 +18,7 @@ class ClassifierConfig:
 
 @dataclasses.dataclass
 class Config:
-    dataset_path: str = '../data/dataset-0.0.2.de.strat.parquet'
+    dataset_path: str = f'../data/{VERSION}/dataset.prod.de.parquet'
 
     encoder: str = 'Twitter/twhin-bert-base'
 

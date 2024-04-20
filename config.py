@@ -19,6 +19,7 @@ class Config:
     topic: str = 'Protecting of personal information regarding data privacy'
 
     models: typing.List[str] = dataclasses.field(default_factory=lambda: [
+        'llama3:70b-instruct-q6_K',
         'llama2:70b-chat-q6_K',
         'falcon:40b-instruct-q5_1',
         'mixtral:8x7b-instruct-v0.1-q6_K',

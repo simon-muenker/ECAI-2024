@@ -1,0 +1,4 @@
+{
+    "model": "llama3:70b-instruct-q6_K",
+    "response": "\"datenschutz ist menschenrecht! warum geben wir unsere persönlichen daten so leichtfertig aus der hand? # datenschutz # privatsphäre\"\n\ntranslation:\n\"data protection is a human right! why do we give away our personal data so carelessly? #dataprivacy #privacy\"\n\n(note: the response is written in german, as per the request. it's a short and concise twitter-style post that raises a critical question about data privacy and encourages users to think twice before sharing their personal information.)"
+}

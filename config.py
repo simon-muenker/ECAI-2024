@@ -13,6 +13,7 @@ class Config:
 
     dataset_name: str = 'dataset'
     data_dir: str = './data'
+    prediction_dir: str = './prediction'
     report_dir: str = './report'
 
     topic: str = 'Protecting of personal information regarding data privacy'
@@ -25,7 +26,8 @@ class Config:
     ])
 
     samples_per_permutation: int = 3500
-    n_grams_analysis: int = 1
+
+    lang: str = 'de'
 
     def __post_init__(self):
         self.template: str = open(self.template_path).read().strip()
@@ -34,9 +36,11 @@ class Config:
         self.data_dir = f'{self.data_dir}/{self.version}'
         self.data_raw_dir = f'{self.data_dir}/raw'
         self.data_questionary_dir = f'{self.data_dir}/questionary'
+        self.prediction_dir = f'{self.prediction_dir}' # /{self.version}
         self.report_dir = f'{self.report_dir}/{self.version}'
 
         pathlib.Path(self.data_dir).mkdir(parents=True, exist_ok=True)
         pathlib.Path(self.data_raw_dir).mkdir(parents=True, exist_ok=True)
         pathlib.Path(self.data_questionary_dir).mkdir(parents=True, exist_ok=True)
+        pathlib.Path(self.prediction_dir).mkdir(parents=True, exist_ok=True)
         pathlib.Path(self.report_dir).mkdir(parents=True, exist_ok=True)

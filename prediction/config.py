@@ -22,9 +22,9 @@ class Config:
 
     encoder: str = 'Twitter/twhin-bert-base'
 
-    data_out_dir: str = './data'
-    result_dir: str = './results'
-    test_size: float = 0.2
+    data_out_dir: str = f'./{VERSION}/data'
+    result_dir: str = f'./{VERSION}/results'
+    test_size: float = 0.1
 
     text_column: str = 'response'
     label_column: str = 'model'

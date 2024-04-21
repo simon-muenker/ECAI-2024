@@ -24,7 +24,7 @@ class Config:
 
     data_out_dir: str = f'./{VERSION}/data'
     result_dir: str = f'./{VERSION}/results'
-    test_size: float = 0.1
+    test_size: float = 0.25
 
     text_column: str = 'response'
     label_column: str = 'model'

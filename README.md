@@ -1,1 +1,1 @@
-# ECAI 2024: LLMs Opinions in German synthetic OSN content
+# Konvens 2024: Exploring LLMs’ worldview through generated content
